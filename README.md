@@ -19,7 +19,7 @@ The solutions to the live coding sessions can be found in the live_coding_soluti
 # How to Use this Repository
 - Clone the repository to your local machine using the command:
 ```
-git clone https://github.com/NebulaTris/pdsa-iitm.git
+git clone https://github.com/Saravanan-039/PDSA_BS.git
 ```
 - Navigate to the notes folder to access the weekly notes in Jupyter notebook format. You can open the notebooks using Jupyter Notebook or JupyterLab.
 - Navigate to the grpas folder to access the solutions to all the GRPAs in Python format.
